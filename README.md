@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyagoyal18" alt="diyagoyal18" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Web Ddevelopment**
+- 🌱 I’m currently learning **Full stack Web Development**
 
 - 📫 How to reach me **gdiya0412@gmail.com**
 
