@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack Web Ddevelopment**
 
-- 📫 How to reach me **gdiya0412@gmail.com**
+- 📫 How to reach me **goyaldiya1812@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
